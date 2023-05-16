@@ -1,0 +1,15 @@
+PATIENT:
+
+information personnelle et médicales:
+
+num dossier / service(liste déroulente) / nom/ prenom/ nationnalité/ sexe / num tel/date naissance /adresse/ email/ groupe sanguin/ 
+couverture médicale( cnops-cnss-far...) photo/ rapport d'état(champs de paragraphe)/medecin praticein( liste déroulente)/ 
+annalyse(radio a auploader)
+
+MEDECINS:
+
+nom / prenom/num tel/ photo/ date de naissance/ spécialité/ email/ addresse 
+
+TECHNICIEN LABO:
+
+champs pour identifier le patient+ upload scan
